@@ -46,5 +46,5 @@
 ## Стек технологий
 
 * **Backend**: Spring Boot, Web, Data, Security, Hibernate.
-* **Frontend**: TanStack tables, Chacra UI, Axios
+* **Frontend**: React, TanStack tables, Chacra UI, Axios
 * **База данных**: PostgreSQL
