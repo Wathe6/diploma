@@ -48,3 +48,11 @@
 * **Backend**: Spring Boot, Web, Data, Security, Hibernate.
 * **Frontend**: React, TanStack tables, Chacra UI, Axios
 * **База данных**: PostgreSQL
+
+## Скриншоты
+* Информация о выполнении работ с точки зрения студента.
+<img width="1752" height="813" alt="image" src="https://github.com/user-attachments/assets/1d5afb50-7f1a-4990-960b-bd3ab37fc0b9" />
+
+* Информация о выполнении работ с точки зрения преподавателя. Сортиврока по статусу работы.
+<img width="1956" height="1103" alt="image" src="https://github.com/user-attachments/assets/ebc16ad4-28cf-4d02-a46b-7cba4a8b6e04" />
+
